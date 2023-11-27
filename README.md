@@ -1,11 +1,13 @@
 # HR-Analysis
 
-Objective--
-Help an organisation to improve employee performance and improve employee retention (ie. ruduce attrition) by creating a HR analysis dashboard
 
-Process included
-1) Importing and verifying data. few transformations and cleaning in power query
-3) Identifying & Creating Measures 
-4) Validating all data
-5) Creating Dashboard using appropriate Visualization.
+Objective: Contribute to organizational growth by enhancing employee performance and
+minimizing attrition through the creation of an HR analysis dashboard.
+
+Process:
+
+- Importing and Thoroughly validating data, incorporating essential transformations and cleaning using Power Query.
+- Identifying and formulating key measures.
+- Thoroughly validating all data.
+- Crafting a comprehensive dashboard using relevant visualizations.
 
